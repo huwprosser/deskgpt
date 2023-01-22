@@ -1,0 +1,16 @@
+{
+    "name": "deskgpt",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "electron .",
+        "build": "electron-packager . --platform=darwin --arch=x64 --overwrite"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "electron": "^22.0.3"
+    }
+}
