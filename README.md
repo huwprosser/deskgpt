@@ -6,7 +6,7 @@ This is an open-source Electron app that acts as a simple wrapper around the Cha
 
 This codebase was a collaboration between [Huw Prosser](https://github.com/huwprosser) and ChatGPT.
 
-Download MacOS executable [HERE](https://drive.google.com/drive/folders/13L-BxNMXMLWP_6o9Vs0l1TwZhfP1qZy0?usp=sharing)
+Download MacOS executable [HERE](https://drive.google.com/file/d/1jXXEfS9Xb65M68uj9URC6cUdp7X91RVG/view?usp=sharing)
 
 Or build for your machine below.
 
