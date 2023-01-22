@@ -1,8 +1,14 @@
 # DeskGPT - A lightweight desktop ChatGPT Wrapper
 
+Built this for me and he team at [Carter](https://carterapi.com) to move faster in our day-to-day. Thought it was worth sharing.
+
 This is an open-source Electron app that acts as a simple wrapper around the ChatGPT API. It allows you to interact with the API and receive responses from the GPT-3 model through an easy-to-use user interface.
 
 This codebase was a collaboration between [Huw Prosser](https://github.com/huwprosser) and ChatGPT.
+
+Download MacOS executable [HERE](https://drive.google.com/drive/folders/13L-BxNMXMLWP_6o9Vs0l1TwZhfP1qZy0?usp=sharing)
+
+Or build for your machine below.
 
 ## Features
 

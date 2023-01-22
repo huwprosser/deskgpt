@@ -6,11 +6,18 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "electron .",
-        "build": "electron-packager . --platform=darwin --arch=x64 --overwrite"
+        "build": "electron-packager . --platform=darwin --arch=x64 --overwrite --icon=icon.icns --prune=true --out=release-builds"
     },
     "author": "",
     "license": "ISC",
     "dependencies": {
         "electron": "^22.0.3"
+    },
+    "build": {
+        "appId": "com.electron.deskgpt",
+        "mac": {
+            "category": "public.app-category.utilities",
+            "icon": "icon.icns"
+        }
     }
 }
